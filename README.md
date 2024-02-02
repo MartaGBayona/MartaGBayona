@@ -1,5 +1,7 @@
 ## Hi, I'm Marta 👋
 
+<image src="./full stack developer.png" alt="mi informacion">
+
 <!--
 **MartaGBayona/MartaGBayona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

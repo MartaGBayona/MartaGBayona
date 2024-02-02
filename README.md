@@ -1,4 +1,4 @@
-<h1 align="center> Hi, I'm Marta 👋</h1>
+<h1> Hi, I'm Marta 👋</h1>
 
 <!--
 **MartaGBayona/MartaGBayona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

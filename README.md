@@ -29,7 +29,13 @@ I am a Full Stack Developer with extensive knowledge of major databases such as 
 <img src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGBayona&theme=tokyonight)
+
+## My GitHub Stats
+
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGBayona&theme=date_night)
+</p>
+
 
 ## Contact Me:
 

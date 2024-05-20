@@ -33,7 +33,7 @@ I am a Full Stack Developer with extensive knowledge of major databases such as 
 ## My GitHub Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGBayona&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGBayona&theme=bear)
 
 
 
